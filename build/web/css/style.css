@@ -1,0 +1,21 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Dec 31, 2023, 9:40:26 AM
+    Author     : Falcon_9
+*/
+/* Add this CSS to your style.css file */
+
+/* Increase the size of the card and its contents */
+
+        /* Add your custom styles here */
+        .card {
+            margin-bottom: 20px;
+        }
+
+        .card-body-text-center {
+            text-align: center;
+        }
+
